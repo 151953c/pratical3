@@ -9,9 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
 
-/**
- * Created by chitboon on 10/29/15.
- */
+
 @WebServlet(name = "BookCatalogServlet", urlPatterns="/bookcatalog")
 
 public class BookCatalogServlet extends HttpServlet {
